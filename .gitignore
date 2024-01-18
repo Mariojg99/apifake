@@ -34,3 +34,4 @@ coverage/
 
 # Ignorar archivos de configuración de editor (Ejemplo para WebStorm)
 .idea/
+.vercel
