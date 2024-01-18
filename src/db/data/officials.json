@@ -1,0 +1,502 @@
+[
+    {
+        "firstName": "Andrés",
+        "secondName": "Felipe",
+        "firstLastname": "García",
+        "secondLastname": "Pérez",
+        "identificationNumber": 123456,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "9e34816c-648a-4e13-ac51-d16b08a79a66",
+          "value": "GENERAL"
+        },
+        "badgeNumber": "ABC123",
+        "adminSituation": {
+          "id": "1d250ae4-c4ce-4a2f-8687-004e253d4532",
+          "value": "LICENCIA"
+        }
+      },
+      {
+        "firstName": "Juan",
+        "secondName": "David",
+        "firstLastname": "López",
+        "secondLastname": "Martínez",
+        "identificationNumber": 789012,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "b4d504f9-454e-456c-8116-5dab65757dc7",
+          "value": "MAYOR GENERAL"
+        },
+        "badgeNumber": "CDE456",
+        "adminSituation": {
+          "id": "3bdfa7a6-43fb-4aaa-9ac9-15d21a83b1f7",
+          "value": "ACTIVO"
+        }
+      },
+      {
+        "firstName": "María",
+        "secondName": "Inés",
+        "firstLastname": "Rodríguez",
+        "secondLastname": "Sánchez",
+        "identificationNumber": 345678,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "15a85f5f-acf3-4b14-92e8-cac3b163b9c3",
+          "value": "BRIGADIER GENERAL"
+        },
+        "badgeNumber": "DEF789",
+        "adminSituation": {
+          "id": "3bdfa7a6-43fb-4aaa-9ac9-15d21a83b1f7",
+          "value": "ACTIVO"
+        }
+      },
+      {
+        "firstName": "José",
+        "secondName": "Antonio",
+        "firstLastname": "Pérez",
+        "secondLastname": "Hernández",
+        "identificationNumber": 901234,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "GHI012",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Luisa",
+        "secondName": "Camila",
+        "firstLastname": "González",
+        "secondLastname": "Castro",
+        "identificationNumber": 567890,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "e9a91b48-b856-4e1b-a0c1-b2114d9eb222",
+          "value": "CORONEL"
+        },
+        "badgeNumber": "JKL567",
+        "adminSituation": {
+          "id": "3bdfa7a6-43fb-4aaa-9ac9-15d21a83b1f7",
+          "value": "ACTIVO"
+        }
+      },
+      {
+        "firstName": "Carlos",
+        "secondName": "Andrés",
+        "firstLastname": "Ramírez",
+        "secondLastname": "Pérez",
+        "identificationNumber": 678901,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "0f5b522f-554e-44ae-a777-dd2c588d3c15",
+          "value": "TENIENTE CORONEL"
+        },
+        "badgeNumber": "MNO678",
+        "adminSituation": {
+          "id": "3bdfa7a6-43fb-4aaa-9ac9-15d21a83b1f7",
+          "value": "ACTIVO"
+        }
+      },
+      {
+        "firstName": "Danna",
+        "secondName": "Paola",
+        "firstLastname": "Lozano",
+        "secondLastname": "Martínez",
+        "identificationNumber": 789013,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "f8807d16-6277-431c-9645-6211f667a426",
+          "value": "MAYOR"
+        },
+        "badgeNumber": "PQR789",
+        "adminSituation": {
+          "id": "3bdfa7a6-43fb-4aaa-9ac9-15d21a83b1f7",
+          "value": "ACTIVO"
+        }
+      },
+      {
+        "firstName": "Francisco",
+        "secondName": "José",
+        "firstLastname": "Ruiz",
+        "secondLastname": "López",
+        "identificationNumber": 567891,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "e9a91b48-b856-4e1b-a0c1-b2114d9eb222",
+          "value": "CORONEL"
+        },
+        "badgeNumber": "JKL568",
+        "adminSituation": {
+          "id": "3bdfa7a6-43fb-4aaa-9ac9-15d21a83b1f7",
+          "value": "ACTIVO"
+        }
+      },
+      {
+        "firstName": "Sofía",
+        "secondName": "Andrea",
+        "firstLastname": "Pérez",
+        "secondLastname": "Rojas",
+        "identificationNumber": 678902,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "0f5b522f-554e-44ae-a777-dd2c588d3c15",
+          "value": "TENIENTE CORONEL"
+        },
+        "badgeNumber": "MNO679",
+        "adminSituation": {
+          "id": "3bdfa7a6-43fb-4aaa-9ac9-15d21a83b1f7",
+          "value": "ACTIVO"
+        }
+      },
+      {
+        "firstName": "Mateo",
+        "secondName": "Antonio",
+        "firstLastname": "López",
+        "secondLastname": "Rodríguez",
+        "identificationNumber": 789014,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "f8807d16-6277-431c-9645-6211f667a426",
+          "value": "MAYOR"
+        },
+        "badgeNumber": "PQR790",
+        "adminSituation": {
+          "id": "3bdfa7a6-43fb-4aaa-9ac9-15d21a83b1f7",
+          "value": "ACTIVO"
+        }
+      },
+      {
+        "firstName": "Diana",
+        "secondName": "María",
+        "firstLastname": "González",
+        "secondLastname": "Hernández",
+        "identificationNumber": 890123,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "STU012",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Juan",
+        "secondName": "Antonio",
+        "firstLastname": "López",
+        "secondLastname": "Hernández",
+        "identificationNumber": 901235,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "VWX012",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Miguel",
+        "secondName": "Andrés",
+        "firstLastname": "Pérez",
+        "secondLastname": "Rodríguez",
+        "identificationNumber": 912345,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "XYZ012",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Ana",
+        "secondName": "María",
+        "firstLastname": "Martínez",
+        "secondLastname": "López",
+        "identificationNumber": 923456,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "ABC012",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Luis",
+        "secondName": "Antonio",
+        "firstLastname": "González",
+        "secondLastname": "Hernández",
+        "identificationNumber": 934567,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "DEF012",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Camilo",
+        "secondName": "Andrés",
+        "firstLastname": "Pérez",
+        "secondLastname": "Rodríguez",
+        "identificationNumber": 945678,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "GHI013",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Martín",
+        "secondName": "Antonio",
+        "firstLastname": "Martínez",
+        "secondLastname": "López",
+        "identificationNumber": 956789,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "JKL012",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Daniel",
+        "secondName": "Andrés",
+        "firstLastname": "González",
+        "secondLastname": "Hernández",
+        "identificationNumber": 967890,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "MNO012",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Juan Pablo",
+        "secondName": "Antonio",
+        "firstLastname": "Pérez",
+        "secondLastname": "Rodríguez",
+        "identificationNumber": 978901,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "PQR012",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Laura",
+        "secondName": "María",
+        "firstLastname": "Martínez",
+        "secondLastname": "López",
+        "identificationNumber": 989012,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "STU013",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Santiago",
+        "secondName": "Andrés",
+        "firstLastname": "González",
+        "secondLastname": "Hernández",
+        "identificationNumber": 990123,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "VWX013",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Valentina",
+        "secondName": "María",
+        "firstLastname": "Pérez",
+        "secondLastname": "Rodríguez",
+        "identificationNumber": 123400,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "XYZ013",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Hilda",
+        "secondName": "Irene",
+        "firstLastname": "López",
+        "secondLastname": "García",
+        "identificationNumber": 123450,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "ABC014",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Alfonso",
+        "secondName": "Rodrigo",
+        "firstLastname": "González",
+        "secondLastname": "Hernández",
+        "identificationNumber": 234567,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "DEF014",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      },
+      {
+        "firstName": "Aquiles",
+        "secondName": "Alejandro",
+        "firstLastname": "Pérez",
+        "secondLastname": "Rodríguez",
+        "identificationNumber": 345674,
+        "idUnits": {
+          "id": "0e2c2708-8621-4fb5-8918-332094b71929",
+          "nameUnit": "Colombia"
+        },
+        "grado": {
+          "id": "fe14feab-bad0-483f-8acd-364650093a66",
+          "value": "PATRULLERO"
+        },
+        "badgeNumber": "GHI014",
+        "adminSituation": {
+          "id": "2bc31553-cf25-47bb-b9bf-b682831796a4",
+          "value": "APTO"
+        }
+      }
+]
